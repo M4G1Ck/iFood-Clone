@@ -30,7 +30,7 @@
     
  3.  **Mude o Caminho da API!**
     <p align="center">
-      <img alt="expo" src="file:///C:/Users/gabri/Downloads/Screenshot_5.webp" width="300" />
+      <img alt="expo" src="https://ibb.co/cYMH6rb" width="300" />
     </p>
    
   
