@@ -30,7 +30,7 @@
     
  3.  **Mude o Caminho da API!**
     <p align="center">
-      <img alt="expo" src="https://user-images.githubusercontent.com/58527704/99564915-c8ccaa00-29a9-11eb-9db3-e2c862336c31.PNG" width="300" />
+      <img alt="expo" src="https://prnt.sc/194d22t" width="300" />
     </p>
    
   
