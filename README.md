@@ -47,6 +47,4 @@
 5.  **Teste o Projeto com o expo!**
 
     Depois de ter executado o expo é só escaniar o código qr ou executar no navegador! 
-     <p align="center">
-      <img alt="expo" src="" width="300" />
-    </p>
+     
