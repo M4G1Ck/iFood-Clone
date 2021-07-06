@@ -48,5 +48,5 @@
 
     Depois de ter executado o expo é só escaniar o código qr ou executar no navegador! 
      <p align="center">
-      <img alt="expo" src="https://user-images.githubusercontent.com/58527704/99565948-0c73e380-29ab-11eb-955b-533a8b4a35fe.PNG" width="300" />
+      <img alt="expo" src="" width="300" />
     </p>
