@@ -30,7 +30,7 @@
     
  3.  **Mude o Caminho da API!**
     <p align="center">
-      <img alt="expo" src="./assets/Screeshot_5.png" width="300" />
+      <img alt="expo" src="/assets/Screeshot_5.png" width="300" />
     </p>
    
   
