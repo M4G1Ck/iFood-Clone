@@ -30,7 +30,7 @@
     
  3.  **Mude o Caminho da API!**
     <p align="center">
-      <img alt="expo" src="https://ibb.co/cYMH6rb" width="300" />
+      <img alt="expo" src="https://www.imagemhost.com.br/image/2PqmSL" width="300" />
     </p>
    
   
